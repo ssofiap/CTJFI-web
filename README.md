@@ -34,8 +34,8 @@ We welcome contributions from our church members to help maintain and improve ou
 
 To run the website locally for development or testing purposes, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd my-church-website`
+1. Clone the repository: `git clone https://github.com/ssofiap/CTJFI-web.git`
+2. Navigate to the project directory: `cd ctjfi_web`
 3. Open the `index.html` file in your web browser or serve it using a local server.
 
 ## License
