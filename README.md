@@ -1,27 +1,46 @@
-# MyApp
+# CTJFI website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
+Welcome to the README for the website of CTJFI! This document will provide you with an overview of the website, its purpose, features, and instructions for contributing or managing the site.
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This website  serves as an online platform for our church community to stay informed about events. It aims to provide a welcoming digital space that reflects the values and mission of our church.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Homepage**: A welcoming landing page featuring essential information about our church, and upcoming events.
+  
+- **About Us**: An overview of our church's history, mission, vision, and values.
 
-## Build
+- **Events**: A calendar of upcoming events, including worship services, gatherings, and special programs.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Contact Us**: A contact form and information for reaching out to our church leadership or staff.
+  
+## Contributing
 
-## Running unit tests
+We welcome contributions from our church members to help maintain and improve our website. If you have ideas for new features, content updates, or would like to report any issues, please reach out to our website administrator.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Content Contributions**: If you have relevant content such as articles, testimonials, or event announcements, please submit them to the website administrator for review and inclusion.
 
-## Running end-to-end tests
+- **Design/Development Contributions**: If you have skills in web design or development and would like to contribute to the technical aspects of the website, we would love to hear from you. Whether it's fixing bugs, optimizing performance, or implementing new features, your expertise is valuable to us.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Technologies Used
 
-## Further help
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Angular (not much)
+- **Content Management System (CMS)**: n/a
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Getting Started
+
+To run the website locally for development or testing purposes, follow these steps:
+
+1. Clone the repository: `git clone [repository URL]`
+2. Navigate to the project directory: `cd my-church-website`
+3. Open the `index.html` file in your web browser or serve it using a local server.
+
+## License
+
+CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)
+
+
+If you have any questions or need further assistance, please don't hesitate to contact me!
